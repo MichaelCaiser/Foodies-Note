@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>718111ED-E360-4A5C-AF39-D353F43306D0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Foodies Note</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7C812D1E7ADB071036F63A44126B7EC8BFB8B09A</key>
+		<string>https://github.com/cheng-wu/iOS_finalProject.git</string>
+		<key>B61AB3E15A537E19A63A5B8CDCE032DFA1808C5E</key>
+		<string>https://github.com/uchicago-mobi/kaiyuand-cheng-wu-MPCS51030-Winter-2015-Project.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Foodies Note.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7C812D1E7ADB071036F63A44126B7EC8BFB8B09A</key>
+		<string>../../../iOS_finalProject</string>
+		<key>B61AB3E15A537E19A63A5B8CDCE032DFA1808C5E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/uchicago-mobi/kaiyuand-cheng-wu-MPCS51030-Winter-2015-Project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B61AB3E15A537E19A63A5B8CDCE032DFA1808C5E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7C812D1E7ADB071036F63A44126B7EC8BFB8B09A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS_finalProject</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B61AB3E15A537E19A63A5B8CDCE032DFA1808C5E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>kaiyuand-cheng-wu-MPCS51030-Winter-2015-Project</string>
+		</dict>
+	</array>
+</dict>
+</plist>
